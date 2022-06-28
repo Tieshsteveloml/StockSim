@@ -1,0 +1,13 @@
+D:\works\Upwork-Ties\Projects\IBAPI\StockSim\StockSim\bin\Release\StockSim.exe.config
+D:\works\Upwork-Ties\Projects\IBAPI\StockSim\StockSim\bin\Release\StockSim.exe
+D:\works\Upwork-Ties\Projects\IBAPI\StockSim\StockSim\bin\Release\StockSim.pdb
+D:\works\Upwork-Ties\Projects\IBAPI\StockSim\StockSim\bin\Release\CSharpAPI.dll
+D:\works\Upwork-Ties\Projects\IBAPI\StockSim\StockSim\bin\Release\CSharpAPI.pdb
+D:\works\Upwork-Ties\Projects\IBAPI\StockSim\StockSim\obj\Release\StockSim.csproj.AssemblyReference.cache
+D:\works\Upwork-Ties\Projects\IBAPI\StockSim\StockSim\obj\Release\StockSim.Properties.Resources.resources
+D:\works\Upwork-Ties\Projects\IBAPI\StockSim\StockSim\obj\Release\StockSim.StockSim.resources
+D:\works\Upwork-Ties\Projects\IBAPI\StockSim\StockSim\obj\Release\StockSim.csproj.GenerateResource.cache
+D:\works\Upwork-Ties\Projects\IBAPI\StockSim\StockSim\obj\Release\StockSim.csproj.CoreCompileInputs.cache
+D:\works\Upwork-Ties\Projects\IBAPI\StockSim\StockSim\obj\Release\StockSim.csproj.CopyComplete
+D:\works\Upwork-Ties\Projects\IBAPI\StockSim\StockSim\obj\Release\StockSim.exe
+D:\works\Upwork-Ties\Projects\IBAPI\StockSim\StockSim\obj\Release\StockSim.pdb
